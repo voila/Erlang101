@@ -1,6 +1,6 @@
 ### Check birthdays
 
-This is a simple module to show pattern-matching and iteration
+This is a simple module showing pattern-matching, iteration and dialyzer.
 
 Given a list of persons (as records holding their date of birth), 
 we want to check if today is anybody's birthday.

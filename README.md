@@ -5,11 +5,11 @@ Code for the CodeCraft Erlang talk
 
 ##1_simple_module/
 
-pattern-matching and iteration
+Pattern-matching and iteration. Using dialyzer to catch a type error
 
 ##2_fib/
 
-minimal OTP application with a gen_server
+Minimal OTP application with a gen_server
 
 ##3_fib_memo/
 
