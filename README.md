@@ -14,3 +14,8 @@ Minimal OTP application with a gen_server
 ##3_fib_memo/
 
 How to use the State parameter of a gen_server
+
+
+##4_fib_web/
+
+Use [Cowboy](https://github.com/extend/cowboy) to add a web interface to our application
