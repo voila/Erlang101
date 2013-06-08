@@ -6,7 +6,7 @@ This intend to show how to use the State parameter of a gen_server
 
 We'll use [rebar](https://github.com/basho/rebar).
 
-From with the 3_fib_memo folder:
+From within *3_fib_memo* folder:
 
     $ wget https://github.com/rebar/rebar/wiki/rebar
     $ chmod +x rebar 
