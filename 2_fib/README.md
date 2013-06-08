@@ -6,7 +6,7 @@ This intend to show a minimal OTP application with a gen_server
 
 We'll use [rebar](https://github.com/basho/rebar).
 
-From within *2_fib* folder:
+From within *2_fib*:
 
     $ wget https://github.com/rebar/rebar/wiki/rebar
     $ chmod +x rebar 

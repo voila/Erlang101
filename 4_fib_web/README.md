@@ -6,7 +6,7 @@ We'll use [Cowboy](https://github.com/extend/cowboy) to add a web interface to o
 
 We'll use [rebar](https://github.com/basho/rebar).
 
-To install it, from within *4_fib_web folder*, type:
+To install it, from within *4_fib_web*:
 
     $ wget https://github.com/rebar/rebar/wiki/rebar
     $ chmod +x rebar 
