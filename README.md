@@ -3,19 +3,19 @@ Erlang101
 
 Code for the CodeCraft Erlang talk
 
-##1_simple_module/
+##[Simple Module](1_simple_module/README.md)
 
 Pattern-matching and iteration. Using dialyzer to catch a type error
 
-##2_fib/
+##[Fib](2_fib/README.md)
 
 Minimal OTP application with a gen_server
 
-##3_fib_memo/
+##[Fib Memo](3_fib_memo/README.md)
 
 How to use the State parameter of a gen_server
 
 
-##4_fib_web/
+##[Fib Web](4_fib_web/README.md)
 
 Use [Cowboy](https://github.com/extend/cowboy) to add a web interface to our application
