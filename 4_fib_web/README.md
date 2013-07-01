@@ -4,12 +4,21 @@ We'll use [Cowboy](https://github.com/extend/cowboy) to add a web interface to o
 
 #### Rebar
 
-We'll use [rebar](https://github.com/basho/rebar).
+We'll use [rebar](https://github.com/basho/rebar) to fetch the dependencies and build the app.
 
 To install it, from within *4_fib_web*:
 
     $ wget https://github.com/rebar/rebar/wiki/rebar
     $ chmod +x rebar 
+    
+    
+in rebar.config we add our Cowboy dependency:
+
+    {deps, [
+	    {cowboy, ".*",
+		    {git, "git://github.com/extend/cowboy.git", {tag, "0.8.5"}}}
+    ]}.
+
 
 #### The application
 
